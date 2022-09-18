@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Estefani (@LeCache)
-- 👀 I’m interested in all wich give me knowledge
+- 👀 I’m interested in all that can give me knowledge
 - 🌱 I’m currently learning Data science through Geron book
 - 💞️ I’m looking to collaborate on the program Antioquia Mira su Cielo
 - 📫 How to reach me ...
